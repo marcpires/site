@@ -1,2 +1,8 @@
 name: All about Dev
 pygments: true
+
+title: Site
+description: Site Pessoal do desenvolvedor MarcPires
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
